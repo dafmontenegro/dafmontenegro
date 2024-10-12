@@ -1,7 +1,7 @@
 # Who am I?
 If you want to know me a little more, I invite you to visit **my personal website:**
 
-🍀 [montenegrodanielfelipe.com](https://montenegrodanielfelipe.com/)
+[montenegrodanielfelipe.com](https://montenegrodanielfelipe.com/) 🍀 [dafmontenegro.com](https://dafmontenegro.com/)
 
 ## My Projects
 In the meantime, check out some of the projects I've **truly enjoyed** working on:
