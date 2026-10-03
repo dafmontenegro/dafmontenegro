@@ -68,6 +68,16 @@ A hands-on course on single board computers for the Digital Technology course at
 <sub>Raspberry Pi · SSH · GPIO · OpenCV · Flask</sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.png" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/">Texas Hold'em Preflop</a></b> · <a href="https://github.com/dafmontenegro/holdem-preflop-equity">repo</a><br>
+The exact odds of all 169 starting hands, computed rather than quoted: a complete enumeration of every board for every matchup, with five tools to explore it and every figure labelled exact or estimated.<br>
+<sub>C · Python · Combinatorics · Monte Carlo</sub></p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 More on GitHub: [prisoners-dilemma-cellular-automata](https://github.com/dafmontenegro/prisoners-dilemma-cellular-automata) · [sine-wave-based-digital-keyboard](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard) · [img2prompt](https://github.com/dafmontenegro/img2prompt) · [neural-trend-hub](https://github.com/dafmontenegro/neural-trend-hub)
