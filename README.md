@@ -28,38 +28,38 @@ I design the platforms that let AI assistants work **safely and reliably** with 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/gabo-rag/"><img alt="Gabo RAG" src="https://montenegrodanielfelipe.com/projects/gabo-rag/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/gabo-rag/">Gabo RAG</a></b> · <a href="https://github.com/dafmontenegro/gabo-rag">repo</a><br>
-A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in a persistent Chroma store, compared across DeepSeek-R1, Llama 3.2 and Phi-3.5.<br>
-<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
-</td>
-<td width="50%" valign="top">
 <a href="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/"><img alt="E-Commerce Agent" src="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/feature.jpg" width="100%"></a>
 <p><b><a href="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/">E-Commerce Agent</a></b><br>
 A tool-calling agent with seven tools and a RAG-powered FAQ, benchmarked on Qwen3 4B, Llama 3.2 3B and Phi-4-mini for accuracy, multi-intent handling and latency.<br>
 <sub>Python · LangChain · Ollama · ChromaDB</sub></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/gabo-rag/"><img alt="Gabo RAG" src="https://montenegrodanielfelipe.com/projects/gabo-rag/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/gabo-rag/">Gabo RAG</a></b> · <a href="https://github.com/dafmontenegro/gabo-rag">repo</a><br>
+A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in a persistent Chroma store, compared across DeepSeek-R1, Llama 3.2 and Phi-3.5.<br>
+<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.png" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/">Texas Hold'em Preflop</a></b> · <a href="https://github.com/dafmontenegro/holdem-preflop-equity">repo</a><br>
+The exact odds of all 169 starting hands, computed rather than quoted: a complete enumeration of every board for every matchup, with five tools to explore it and every figure labelled exact or estimated.<br>
+<sub>C · Python · Combinatorics · Monte Carlo</sub></p>
+</td>
 <td width="50%" valign="top">
 <a href="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/"><img alt="Prisoner’s Dilemma in Dynamic Networks" src="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/feature.jpg" width="100%"></a>
 <p><b><a href="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/">Prisoner’s Dilemma in Dynamic Networks</a></b><br>
 My undergraduate thesis, advised by Juan David García Arteaga: an agent-based framework to study when cooperation survives on networks that rewire themselves.<br>
 <sub>Python · NetworkX · NumPy · Matplotlib</sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/"><img alt="Real-Time Object Detection" src="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/feature.jpg" width="100%"></a>
 <p><b><a href="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/">Real-Time Object Detection</a></b> · <a href="https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection">repo</a><br>
 Live video on a Raspberry Pi with a TensorFlow Lite model, threaded processing, GPIO alerts, event recording and a local monitoring server.<br>
 <sub>Python · TensorFlow Lite · OpenCV · Flask</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/"><img alt="Super Pony Picker" src="assets/super-pony-picker.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/">Super Pony Picker</a></b><br>
-A random name picker run as an 8-bit pony race, with draws from the browser’s cryptographic random generator and sound synthesized live.<br>
-<sub>JavaScript · p5.js · Web Crypto · Web Audio</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/"><img alt="Raspberry Pi 101" src="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/feature.jpg" width="100%"></a>
@@ -70,10 +70,10 @@ A hands-on course on single board computers for the Digital Technology course at
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.png" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/">Texas Hold'em Preflop</a></b> · <a href="https://github.com/dafmontenegro/holdem-preflop-equity">repo</a><br>
-The exact odds of all 169 starting hands, computed rather than quoted: a complete enumeration of every board for every matchup, with five tools to explore it and every figure labelled exact or estimated.<br>
-<sub>C · Python · Combinatorics · Monte Carlo</sub></p>
+<a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/"><img alt="Super Pony Picker" src="assets/super-pony-picker.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/">Super Pony Picker</a></b><br>
+A random name picker run as an 8-bit pony race, with draws from the browser’s cryptographic random generator and sound synthesized live.<br>
+<sub>JavaScript · p5.js · Web Crypto · Web Audio</sub></p>
 </td>
 <td width="50%" valign="top">
 </td>
