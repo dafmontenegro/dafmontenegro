@@ -34,10 +34,10 @@ A tool-calling agent with seven tools and a RAG-powered FAQ, benchmarked on Qwen
 <sub>Python · LangChain · Ollama · ChromaDB</sub></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/gabo-rag/"><img alt="Gabo RAG" src="https://montenegrodanielfelipe.com/projects/gabo-rag/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/gabo-rag/">Gabo RAG</a></b> · <a href="https://github.com/dafmontenegro/gabo-rag">repo</a><br>
-A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in a persistent Chroma store, compared across DeepSeek-R1, Llama 3.2 and Phi-3.5.<br>
-<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
+<a href="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/"><img alt="PostgreSQL Docs RAG" src="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/feature.png" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/">PostgreSQL Docs RAG</a></b> · <a href="https://github.com/dafmontenegro/postgres-docs-rag">repo</a><br>
+Retrieval over technical documentation where the table of contents defines the chunks, with adversarial questions that caught a mis-calibrated out-of-scope threshold and the recalibration they forced.<br>
+<sub>Python · BeautifulSoup · ChromaDB · sentence-transformers</sub></p>
 </td>
 </tr>
 <tr>
@@ -76,6 +76,10 @@ A random name picker run as an 8-bit pony race, with draws from the browser’s 
 <sub>JavaScript · p5.js · Web Crypto · Web Audio</sub></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/gabo-rag/"><img alt="Gabo RAG" src="https://montenegrodanielfelipe.com/projects/gabo-rag/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/gabo-rag/">Gabo RAG</a></b> · <a href="https://github.com/dafmontenegro/gabo-rag">repo</a><br>
+A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in a persistent Chroma store, compared across DeepSeek-R1, Llama 3.2 and Phi-3.5.<br>
+<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
 </td>
 </tr>
 </table>
