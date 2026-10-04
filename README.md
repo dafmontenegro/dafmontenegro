@@ -42,7 +42,7 @@ Retrieval over technical documentation where the table of contents defines the c
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.png?v=2" width="100%"></a>
+<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.jpg?v=3" width="100%"></a>
 <p><b><a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/">Texas Hold'em Preflop</a></b> · <a href="https://github.com/dafmontenegro/holdem-preflop-equity">repo</a><br>
 The exact odds of all 169 starting hands, computed rather than quoted: a complete enumeration of every board for every matchup, with five tools to explore it and every figure labelled exact or estimated.<br>
 <sub>C · Python · Combinatorics · Monte Carlo</sub></p>
