@@ -32,7 +32,7 @@ Systems and Computer Engineer and licensed professional engineer, based in Bogot
 
 <a href="https://roz.montenegrodanielfelipe.com"><img alt="Roz, a pixel-art robot with a red flower on her head, waving beside Brightbill the gosling" src="https://roz.montenegrodanielfelipe.com/og.png" width="100%"></a>
 
-Have a question about my work? [**Roz**](https://roz.montenegrodanielfelipe.com), my assistant, answers from everything on my website, in your language. She is named after the robot of *The Wild Robot*.
+Have a question about my work? [**Roz**](https://roz.montenegrodanielfelipe.com), my assistant, answers from everything on my website, in your language. She is named after the robot of *The Wild Robot*. How she is designed is on [her project page](https://montenegrodanielfelipe.com/projects/roz/).
 
 ## Featured Projects
 
