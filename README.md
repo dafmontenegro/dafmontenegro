@@ -26,7 +26,7 @@ Systems and Computer Engineer and licensed professional engineer, based in Bogot
 
 ## Certifications
 
-**Microsoft Certified: Azure Fundamentals** (AZ-900, October 2026), university courses from the University of Michigan and the Universidad de los Andes on Coursera, and over a hundred course certificates in all, each with its verification link: [the full list](https://montenegrodanielfelipe.com/certifications/).
+**Microsoft Certified: Azure AI Fundamentals** (AI-901, November 2026) and **Azure Fundamentals** (AZ-900, October 2026), university courses from the University of Michigan and the Universidad de los Andes on Coursera, and over a hundred course certificates in all, each with its verification link: [the full list](https://montenegrodanielfelipe.com/certifications/).
 
 ## Meet Roz
 
