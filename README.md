@@ -99,7 +99,7 @@ More on GitHub: [prisoners-dilemma-cellular-automata](https://github.com/dafmont
 
 ## Art and AI
 
-Together with Juan David García Arteaga, I collaborated on two artworks by the artist [**Mónica Páez**](https://monicapaez.com/) that question how AI describes, translates and reimagines the spaces around us. My part was the technical side of each piece, from hardware to installation.
+Together with Juan David García Arteaga, I collaborated on two artworks by the artist [**Mónica Páez**](https://monicapaez.com/) that question how AI describes, translates and reimagines the spaces around us. My part was the technical side of each piece, from hardware to installation. Today, with both of them again, I support her on *El ojo en el espejo*, her artwork for the XIV Premio Luis Caballero, with the interdisciplinary team she brought together (artists, architects, musicians, writers and more), toward its presentation in 2027.
 
 <table>
 <tr>
