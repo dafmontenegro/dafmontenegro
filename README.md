@@ -93,6 +93,14 @@ A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in
 <sub>Python · LangChain · Ollama · ChromaDB</sub></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/kuantan/"><img alt="Kuantan: fine bands of yellow, black, cyan and pink paint curled into eddies" src="https://montenegrodanielfelipe.com/projects/kuantan/img/designs/12-marble.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/kuantan/">Kuantan</a></b><br>
+Marbled paper that never dries: eleven designs, each a real marbling technique written as the inverse of its strokes, drawn live in a fragment shader in twenty-two vivid palettes. The patterns and colors that calm me, open on my second screen.<br>
+<sub>WebGL · GLSL · JavaScript · Generative art</sub></p>
+</td>
+</tr>
 </table>
 
 More on GitHub: [prisoners-dilemma-cellular-automata](https://github.com/dafmontenegro/prisoners-dilemma-cellular-automata) · [sine-wave-based-digital-keyboard](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard) · [img2prompt](https://github.com/dafmontenegro/img2prompt) · [neural-trend-hub](https://github.com/dafmontenegro/neural-trend-hub)
