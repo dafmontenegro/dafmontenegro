@@ -39,62 +39,6 @@ Have a question about my work? [**Roz**](https://roz.montenegrodanielfelipe.com)
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/"><img alt="E-Commerce Agent" src="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/">E-Commerce Agent</a></b><br>
-A tool-calling agent with seven tools and a RAG-powered FAQ, benchmarked on Qwen3 4B, Llama 3.2 3B and Phi-4-mini for accuracy, multi-intent handling and latency.<br>
-<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/"><img alt="PostgreSQL Docs RAG — an elephant librarian at a card catalogue" src="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/">PostgreSQL Docs RAG</a></b> · <a href="https://github.com/dafmontenegro/postgres-docs-rag">repo</a><br>
-Retrieval over technical documentation where the table of contents defines the chunks, with adversarial questions that caught a mis-calibrated out-of-scope threshold and the recalibration they forced.<br>
-<sub>Python · BeautifulSoup · ChromaDB · sentence-transformers</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.jpg?v=3" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/">Texas Hold'em Preflop</a></b> · <a href="https://github.com/dafmontenegro/holdem-preflop-equity">repo</a><br>
-The exact odds of all 169 starting hands, computed rather than quoted: a complete enumeration of every board for every matchup, with five tools to explore it and every figure labelled exact or estimated.<br>
-<sub>C · Python · Combinatorics · Monte Carlo</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/"><img alt="Prisoner’s Dilemma in Dynamic Networks" src="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/">Prisoner’s Dilemma in Dynamic Networks</a></b><br>
-My undergraduate thesis, advised by Juan David García Arteaga: an agent-based framework to study when cooperation survives on networks that rewire themselves.<br>
-<sub>Python · NetworkX · NumPy · Matplotlib</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/"><img alt="Real-Time Object Detection" src="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/">Real-Time Object Detection</a></b> · <a href="https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection">repo</a><br>
-Live video on a Raspberry Pi with a TensorFlow Lite model, threaded processing, GPIO alerts, event recording and a local monitoring server.<br>
-<sub>Python · TensorFlow Lite · OpenCV · Flask</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/"><img alt="Raspberry Pi 101" src="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/">Raspberry Pi 101</a></b><br>
-A hands-on course on single board computers for the Digital Technology course at the Universidad Nacional de Colombia.<br>
-<sub>Raspberry Pi · SSH · GPIO · OpenCV · Flask</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/"><img alt="Super Pony Picker" src="assets/super-pony-picker.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/">Super Pony Picker</a></b><br>
-A random name picker run as an 8-bit pony race, with draws from the browser’s cryptographic random generator and sound synthesized live.<br>
-<sub>JavaScript · p5.js · Web Crypto · Web Audio</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://montenegrodanielfelipe.com/projects/gabo-rag/"><img alt="Gabo RAG" src="https://montenegrodanielfelipe.com/projects/gabo-rag/feature.jpg" width="100%"></a>
-<p><b><a href="https://montenegrodanielfelipe.com/projects/gabo-rag/">Gabo RAG</a></b> · <a href="https://github.com/dafmontenegro/gabo-rag">repo</a><br>
-A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in a persistent Chroma store, compared across DeepSeek-R1, Llama 3.2 and Phi-3.5.<br>
-<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://montenegrodanielfelipe.com/projects/phenotype/"><img alt="Phenotype: a small pale robot among paper cut-out dolls read from faces" src="https://montenegrodanielfelipe.com/projects/phenotype/feature.jpg" width="100%"></a>
 <p><b><a href="https://montenegrodanielfelipe.com/projects/phenotype/">Phenotype</a></b><br>
 A photo of any face becomes a paper cut-out doll, read and drawn in your own browser: the glasses, the hairline and the beard come from the photo, a wardrobe dresses it, and two faces give the doll that is their child. No photo is uploaded, and every limit is written down.<br>
@@ -105,6 +49,62 @@ A photo of any face becomes a paper cut-out doll, read and drawn in your own bro
 <p><b><a href="https://montenegrodanielfelipe.com/projects/kuantan/">Kuantan</a></b><br>
 Marbled paper that never dries: eleven designs, each a real marbling technique written as the inverse of its strokes, drawn live in a fragment shader in twenty-two vivid palettes. The patterns and colors that calm me, open on my second screen.<br>
 <sub>WebGL · GLSL · JavaScript · Generative art</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/"><img alt="Texas Hold'em Preflop" src="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/feature.jpg?v=3" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/texas-holdem-preflop-trainer/">Texas Hold'em Preflop</a></b> · <a href="https://github.com/dafmontenegro/holdem-preflop-equity">repo</a><br>
+The exact odds of all 169 starting hands, computed rather than quoted: a complete enumeration of every board for every matchup, with five tools to explore it and every figure labelled exact or estimated.<br>
+<sub>C · Python · Combinatorics · Monte Carlo</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/"><img alt="Super Pony Picker" src="assets/super-pony-picker.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/super-pony-picker/">Super Pony Picker</a></b><br>
+A random name picker run as an 8-bit pony race, with draws from the browser’s cryptographic random generator and sound synthesized live.<br>
+<sub>JavaScript · p5.js · Web Crypto · Web Audio</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/"><img alt="PostgreSQL Docs RAG — an elephant librarian at a card catalogue" src="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/postgresql-docs-rag/">PostgreSQL Docs RAG</a></b> · <a href="https://github.com/dafmontenegro/postgres-docs-rag">repo</a><br>
+Retrieval over technical documentation where the table of contents defines the chunks, with adversarial questions that caught a mis-calibrated out-of-scope threshold and the recalibration they forced.<br>
+<sub>Python · BeautifulSoup · ChromaDB · sentence-transformers</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/"><img alt="E-Commerce Agent" src="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/ecommerce-conversational-agent/">E-Commerce Agent</a></b><br>
+A tool-calling agent with seven tools and a RAG-powered FAQ, benchmarked on Qwen3 4B, Llama 3.2 3B and Phi-4-mini for accuracy, multi-intent handling and latency.<br>
+<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/"><img alt="Prisoner’s Dilemma in Dynamic Networks" src="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/prisoners-dilemma-dynamic-networks/">Prisoner’s Dilemma in Dynamic Networks</a></b><br>
+My undergraduate thesis, advised by Juan David García Arteaga: an agent-based framework to study when cooperation survives on networks that rewire themselves.<br>
+<sub>Python · NetworkX · NumPy · Matplotlib</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/"><img alt="Raspberry Pi 101" src="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/raspberry-pi-101-unal/">Raspberry Pi 101</a></b><br>
+A hands-on course on single board computers for the Digital Technology course at the Universidad Nacional de Colombia.<br>
+<sub>Raspberry Pi · SSH · GPIO · OpenCV · Flask</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/gabo-rag/"><img alt="Gabo RAG" src="https://montenegrodanielfelipe.com/projects/gabo-rag/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/gabo-rag/">Gabo RAG</a></b> · <a href="https://github.com/dafmontenegro/gabo-rag">repo</a><br>
+A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in a persistent Chroma store, compared across DeepSeek-R1, Llama 3.2 and Phi-3.5.<br>
+<sub>Python · LangChain · Ollama · ChromaDB</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/"><img alt="Real-Time Object Detection" src="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/pi-tensorflow-lite-object-detection/">Real-Time Object Detection</a></b> · <a href="https://github.com/dafmontenegro/pi-tensorflow-lite-object-detection">repo</a><br>
+Live video on a Raspberry Pi with a TensorFlow Lite model, threaded processing, GPIO alerts, event recording and a local monitoring server.<br>
+<sub>Python · TensorFlow Lite · OpenCV · Flask</sub></p>
 </td>
 </tr>
 </table>
