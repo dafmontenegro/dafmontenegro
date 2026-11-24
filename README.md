@@ -94,7 +94,13 @@ A RAG assistant over Gabriel García Márquez’s work, with Nomic embeddings in
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+<a href="https://montenegrodanielfelipe.com/projects/phenotype/"><img alt="Phenotype: a small pale robot among paper cut-out dolls read from faces" src="https://montenegrodanielfelipe.com/projects/phenotype/feature.jpg" width="100%"></a>
+<p><b><a href="https://montenegrodanielfelipe.com/projects/phenotype/">Phenotype</a></b><br>
+A photo of any face becomes a paper cut-out doll, read and drawn in your own browser: the glasses, the hairline and the beard come from the photo, a wardrobe dresses it, and two faces give the doll that is their child. No photo is uploaded, and every limit is written down.<br>
+<sub>JavaScript · MediaPipe · SVG · OKLab</sub></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://montenegrodanielfelipe.com/projects/kuantan/"><img alt="Kuantan: fine bands of yellow, black, cyan and pink paint curled into eddies" src="https://montenegrodanielfelipe.com/projects/kuantan/img/designs/12-marble.jpg" width="100%"></a>
 <p><b><a href="https://montenegrodanielfelipe.com/projects/kuantan/">Kuantan</a></b><br>
 Marbled paper that never dries: eleven designs, each a real marbling technique written as the inverse of its strokes, drawn live in a fragment shader in twenty-two vivid palettes. The patterns and colors that calm me, open on my second screen.<br>
